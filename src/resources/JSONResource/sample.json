@@ -1,0 +1,4 @@
+{"name":"John", "age": 28, "nationality": "Indian", "skills":["Scala", "Spark", "Kafka"]}
+{"name":"John1", "age": 38, "nationality": "US", "skills":["Scala", "Spark", "IBM"]}
+{"name":"John2", "age": 25, "nationality": "UK", "skills":["Scala", "Spark", "Spring"]}
+{"name":"John3", "age": 30, "nationality": "AUS", "skills":["Scala", "Spark", "ELK"]}
